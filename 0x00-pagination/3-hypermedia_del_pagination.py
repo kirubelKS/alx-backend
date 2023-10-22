@@ -22,7 +22,7 @@ class Server:
             reader = csv.reader(f)
             dataset = [row for row in reader]
         self.__dataset = dataset[1:]
-        
+
     return self.__dataset    
 
     def index_dataset(self) -> Dict[int, List]:

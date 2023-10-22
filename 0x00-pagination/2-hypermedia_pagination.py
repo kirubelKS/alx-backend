@@ -1,5 +1,5 @@
 #!/usr/bin/env python 3
-'''mplement a get_hyper method that takes the same arguments (and defaults) as get_page and returns a dictionary.'''
+'''Implement a get_hyper method that takes the same arguments (and defaults) as get_page and returns a dictionary.'''
 
 import csv
 import math
